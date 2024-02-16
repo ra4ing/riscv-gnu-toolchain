@@ -4,8 +4,8 @@
 	branch = binutils-2_41-release-point
 [submodule "gcc"]
 	path = gcc
-	url = https://gcc.gnu.org/git/gcc.git
-	branch = releases/gcc-13
+	url = https://github.com/ra4ing/gcc
+	branch = riscv-sec-extension
 [submodule "glibc"]
 	path = glibc
 	url = https://sourceware.org/git/glibc.git
