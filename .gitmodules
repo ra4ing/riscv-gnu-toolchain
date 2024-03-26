@@ -39,5 +39,5 @@
 	branch = master
 [submodule "llvm"]
 	path = llvm
-	url = https://github.com/llvm/llvm-project.git
-	branch = release/17.x
+	url = https://github.com/ra4ing/llvm-project.git
+	branch = release/riscv_security_extension
